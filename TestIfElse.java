@@ -1,8 +1,5 @@
-public class testifelse {
-  /**
-   * @param args
-   */
-  public static void main(String[] args) {
+public class TestIfElse {
+  public static void main(char[] args) {
       int constante = 76;
         char nome; {
           if (constante >=90) {
